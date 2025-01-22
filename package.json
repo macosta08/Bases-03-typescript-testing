@@ -11,7 +11,7 @@
     "build": "yarn run test && rimraf ./dist && tsc",
     "start": "node dist/app.js"
   },
-  "author": "Fernando Herrera",
+  "author": "Mariangel Acosta",
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^29.5.14",
